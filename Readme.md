@@ -68,5 +68,7 @@ Operational work involved in processing Housing Loan contracts.
 
 **Bootcamp Certificate (in progress): Columbia University**, New York City, NY.<br> 
 A 24-week intensive program focused on gaining technical programming skills in Excel, VBA, Python, R, JavaScript, SQL Databases, Tableau, Big Data, and Machine Learning.<br>
+
 **Bachelor’s Degree: Accounting, Universidade de Brasília,** Brasília, Brazil.<br>
+
 **Graduate Degree: Accounting and Finance, UDF,** Brasília, Brazil.
